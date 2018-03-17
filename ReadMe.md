@@ -1,3 +1,16 @@
+## Data Science at the command line
+
+```sh
+
+docker pull datascienceworkshops/data-science-at-the-command-line
+
+docker run --rm -itv`pwd`:/data datascienceworkshops/data-science-at-the-command-line
+
+```
+
+
+
+
 RESOURCES:
 
 - https://github.com/datascienceworkshops/dockerfiles/blob/master/data-science-at-the-command-line/Dockerfile
