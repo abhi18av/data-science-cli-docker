@@ -23,3 +23,5 @@ TODO:
 - Convert this to centos based image
 - add powershell 
 - add cli utils for the docker 
+- Use the singularity based architecture 
+https://github.com/truatpasteurdotfr/singularity-docker-centos7-buildenv-singularity-release-2.4.2
