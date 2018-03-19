@@ -20,6 +20,7 @@ RESOURCES:
 
 TODO:
 
+- Use a singularity based container
 - Convert this to centos based image
 - add powershell 
 - add cli utils for the docker 
